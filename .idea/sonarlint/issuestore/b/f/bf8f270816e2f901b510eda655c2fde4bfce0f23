@@ -1,0 +1,6 @@
+
+x
+java:S1128"VRemove this unused import 'org.springframework.boot.builder.SpringApplicationBuilder'.(«İÒøÿÿÿÿ8©“õ…º/
+ƒ
+java:S1128"fRemove this unused import 'org.springframework.boot.web.servlet.support.SpringBootServletInitializer'.(“²ş÷8ï²õ…º/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êîùöüÿÿÿÿ
